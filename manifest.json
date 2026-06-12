@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.0",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.0/RoboEprocIA-Setup-1.0.0.exe",
+  "versao_atual": "1.0.3",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.3/RoboEprocIA-Setup-1.0.3.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "",
+  "mensagem_update": "Login Microsoft com aviso do Authenticator, Classificador mais rápido em computadores sem placa de vídeo e seletor de localizadores configurável na aba Conclusos.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "maquinas_autorizadas": [],
