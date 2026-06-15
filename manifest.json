@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.8",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.8/RoboEprocIA-Setup-1.0.8.exe",
+  "versao_atual": "1.0.9",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.9/RoboEprocIA-Setup-1.0.9.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Classificação muito mais rápida em computadores sem placa de vídeo, leitura dos atos de cartório pelo texto da decisão ou pelo bloco 'Dados para cumprimento', correções no lançamento e no salvamento das minutas.",
+  "mensagem_update": "Ao cadastrar, o programa agora remove os localizadores de conclusão antigos do processo e melhora a escolha da preferência por vara (7ª e 8ª).",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
