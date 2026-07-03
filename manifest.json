@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.18",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.18/RoboEprocIA-Setup-1.0.18.exe",
+  "versao_atual": "1.0.19",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.19/RoboEprocIA-Setup-1.0.19.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória: (1) corrigido o download de processos — a árvore de documentos que às vezes não abria (o robô pegava a aba errada em lote) agora abre corretamente; (2) suporte à minuta no perfil de SERVIDOR/ASSISTENTE do juiz, cujas preferências aparecem em lista (antes dava 'preferência não encontrada'); (3) recuperação automática quando a sessão do EPROC cai no meio do lançamento/download; (4) o robô executa uma tarefa por vez e avisa se você iniciar outra; (5) em caso de erro, envio do diagnóstico ao suporte com um clique.",
+  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) lançamento de decisões no perfil de SERVIDOR/ASSISTENTE agora funciona de ponta a ponta — o robô reconhece sozinho se você está como magistrado ou servidor e usa o caminho certo (antes a sessão caía para a tela de login no meio do lançamento); (2) interface redesenhada — mais limpa, legível e organizada, com as abas na ordem do seu fluxo (Conclusos, Download, Lançar, Configurações); (3) mais privacidade — as mensagens técnicas saíram da tela e os registros de erro agora são protegidos (só o suporte consegue lê-los); (4) mensagens de progresso mais claras em todas as telas.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
