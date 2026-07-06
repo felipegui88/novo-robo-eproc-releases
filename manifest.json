@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.20",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.20/RoboEprocIA-Setup-1.0.20.exe",
+  "versao_atual": "1.0.21",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.21/RoboEprocIA-Setup-1.0.21.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) download de processos totalmente reformulado — agora usa o Download Completo do EPROC, e processos grandes que antes travavam baixam em segundos, no formato PDF único ou ZIP, à sua escolha; (2) nova opção nas Configurações: salvar cada PDF dentro de uma pasta criada com o número do processo; (3) entrada no login configurável — escolha seu perfil e sua vara preferidos e o robô entra direto neles; se você trocar de vara ou perfil pelo programa, a nova escolha vira o padrão automaticamente; (4) o programa parou de esquecer seu perfil preferido ao usar o robô em mais de um computador — cada máquina agora guarda a própria escolha; (5) as larguras das colunas das tabelas agora ficam salvas do seu jeito, com opção de restaurar o padrão; (6) tela de Configurações reorganizada, com as preferências de entrada junto da Conexão.",
+  "mensagem_update": "Atualização obrigatória. Novidade desta versão: quem usa o robô no perfil de servidor/assistente (não magistrado) agora escolhe, na aba Lançar Decisões, o juiz que vai assinar a minuta — o robô lê a lista de magistrados direto do EPROC. Antes o lançamento falhava nesse perfil (o EPROC recusava a minuta sem assinante). A escolha fica salva e o botão de lançar só libera depois que um juiz é selecionado. No perfil de magistrado nada muda.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
