@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.24",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.24/RoboEprocIA-Setup-1.0.24.exe",
+  "versao_atual": "1.0.25",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.25/RoboEprocIA-Setup-1.0.25.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) correção do evento ao lançar sentença de extinção — o robô selecionava um evento antigo de processo físico com o mesmo código e o EPROC recusava o agendamento; (2) processos com sigilo agora salvam normalmente — o robô responde sozinho a pergunta 'Salvar as partes sem anonimizar?' que travava o salvamento; (3) o robô coloca o processo em conclusão sozinho quando necessário (e corrige o tipo de conclusão), com nova tentativa automática; (4) proteção contra lançar minuta com preferência de outra vara (evitava minuta criada no juízo errado); (5) esperas mais robustas nas telas de intimação e situação do processo; (6) os avisos de cada lançamento agora aparecem na tela do lote (ex.: processo sigiloso, preferência aproximada); (7) diagnóstico ampliado nos logs para suporte.",
+  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) CORREÇÃO CRÍTICA do download de processos — em lote, o robô podia salvar o PDF de OUTRO processo com o nome do processo certo (cache do 'Download Completo' do EPROC); agora há verificação tripla de identidade (aba, tela e o número impresso dentro do PDF baixado) e o arquivo trocado é descartado e re-baixado; (2) sigilo do documento SISBAJUD agora é aplicado no campo correto da minuta ('Nível de Sigilo' do cabeçalho — antes marcava um campo invisível sem efeito); (3) o robô troca sozinho o juízo da sessão para o juízo do processo antes de minutar — essencial para quem atua em mais de uma vara (sem isso, as preferências da vara certa ficavam invisíveis); (4) quando o assinante não é indicado na tela, o robô indica o magistrado logado (antes ficava o padrão do modelo, que podia apontar outro juiz); (5) download simplificado: sempre em PDF (opção ZIP removida); (6) proteções adicionais de identidade do processo em todos os fluxos (cadastro, capa e árvore) — o robô nunca atua numa tela de processo divergente.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
