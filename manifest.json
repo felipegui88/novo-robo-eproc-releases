@@ -1,9 +1,9 @@
 {
-  "versao_atual": "1.0.25",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.25/RoboEprocIA-Setup-1.0.25.exe",
+  "versao_atual": "1.0.26",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.26/RoboEprocIA-Setup-1.0.26.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) CORREÇÃO CRÍTICA do download de processos — em lote, o robô podia salvar o PDF de OUTRO processo com o nome do processo certo (cache do 'Download Completo' do EPROC); agora há verificação tripla de identidade (aba, tela e o número impresso dentro do PDF baixado) e o arquivo trocado é descartado e re-baixado; (2) sigilo do documento SISBAJUD agora é aplicado no campo correto da minuta ('Nível de Sigilo' do cabeçalho — antes marcava um campo invisível sem efeito); (3) o robô troca sozinho o juízo da sessão para o juízo do processo antes de minutar — essencial para quem atua em mais de uma vara (sem isso, as preferências da vara certa ficavam invisíveis); (4) quando o assinante não é indicado na tela, o robô indica o magistrado logado (antes ficava o padrão do modelo, que podia apontar outro juiz); (5) download simplificado: sempre em PDF (opção ZIP removida); (6) proteções adicionais de identidade do processo em todos os fluxos (cadastro, capa e árvore) — o robô nunca atua numa tela de processo divergente.",
+  "mensagem_update": "Atualização obrigatória. Novidades desta versão: (1) quando um lançamento der erro, o robô agora captura automaticamente a tela e os dados da página do EPROC (botões, campos, preferências da vara) e inclui tudo, de forma protegida, no pacote de diagnóstico enviado ao suporte — o problema é identificado e corrigido muito mais rápido; (2) o robô detecta NA HORA quando o EPROC recusa o salvamento da minuta (ex.: 'Favor selecionar uma parte para ser intimada') e mostra a mensagem verdadeira, em vez de travar 4 minutos e falhar com erro genérico de editor; (3) minutas de bloqueio SISBAJUD sigiloso agora são lançadas corretamente sem intimação (o sigilo impede avisar o executado antes da constrição); (4) mensagens de erro mais claras e diagnóstico ampliado para suporte.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
