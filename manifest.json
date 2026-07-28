@@ -9,5 +9,7 @@
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
-  "versao_atual_win": "1.0.29"
+  "versao_atual_win": "1.0.29",
+  "versao_atual_mac": "1.0.29",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.29/RoboEprocIA-1.0.29.dmg"
 }
