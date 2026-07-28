@@ -1,15 +1,16 @@
 {
-  "versao_atual": "1.0.29",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.29/RoboEprocIA-Setup-1.0.29.exe",
+  "versao_atual": "1.0.30",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.30/RoboEprocIA-Setup-1.0.30.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Novidades desta versão: na aba Conclusos, a tela de criação de localizadores foi refeita — os localizadores já salvos agora ficam separados dos que você está selecionando, dá para combinar vários com E / OU vendo o resultado montado ao lado, a janela ficou maior (o texto não cabia) e os botões Salvar e Cancelar voltaram a aparecer. Corrigido também o grupo que não era salvo ao dar nome ao marcador.",
+  "mensagem_update": "Atualização obrigatória. Correções de conexão no macOS, verificação de integridade do instalador ao atualizar, e melhorias internas.",
   "versao_minima": "1.0.0",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
-  "versao_atual_win": "1.0.29",
+  "versao_atual_win": "1.0.30",
   "versao_atual_mac": "1.0.29",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.29/RoboEprocIA-1.0.29.dmg"
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.29/RoboEprocIA-1.0.29.dmg",
+  "sha256_win": "a18c2c1edb541bdade9c381db71c447c5e76fd3bfc77b01a94410f9f5eab4ecc"
 }
