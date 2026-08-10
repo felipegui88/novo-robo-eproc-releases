@@ -1,17 +1,18 @@
 {
-  "versao_atual": "1.0.33",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.33/RoboEprocIA-Setup-1.0.33.exe",
+  "versao_atual": "1.0.34",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.34/RoboEprocIA-Setup-1.0.34.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Corrige o lembrete ao cartório (as ordens da decisão voltam a aparecer na minuta), impede que o navegador feche sozinho ao salvar, conserta a contagem de downloads de processos grandes e a pasta de destino inválida. No Mac, a atualização agora se instala sozinha na pasta Aplicativos. O relatório de erro passa a incluir a minuta que falhou, para diagnóstico.",
+  "mensagem_update": "Atualização obrigatória. Impede lançar duas vezes a mesma minuta (bloqueio por conteúdo), corrige o evento de sentença por abandono e as intimações de réu não citado. O robô passa a registrar as telas do eproc para diagnóstico automático de erros. Na 7ª Vara: seleção automática do assinante e resumo do processo em arquivo .md.",
   "versao_minima": "1.0.33",
+  "versao_minima_win": "1.0.34",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
-  "versao_atual_win": "1.0.33",
+  "versao_atual_win": "1.0.34",
   "versao_atual_mac": "1.0.33",
   "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.33/RoboEprocIA-1.0.33.dmg",
-  "sha256_win": "c1c06708a83e600bbe5851cd782e0682165e08a0d796195f1995275f14ebe50e",
+  "sha256_win": "96760599233fb19f6a7ab46ef412b630014c23ae206176ea4ccf368d6bf06a27",
   "sha256_mac": "0c35936bdb7df8854dee5720397add329b3cac740a152d0fc3ad0313d21d2758"
 }
