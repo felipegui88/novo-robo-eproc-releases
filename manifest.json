@@ -3,7 +3,7 @@
   "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.34/RoboEprocIA-Setup-1.0.34.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória. Impede lançar duas vezes a mesma minuta (bloqueio por conteúdo), corrige o evento de sentença por abandono e as intimações de réu não citado. O robô passa a registrar as telas do eproc para diagnóstico automático de erros. Na 7ª Vara: seleção automática do assinante e resumo do processo em arquivo .md.",
+  "mensagem_update": "Atualização obrigatória. Impede lançar duas vezes a mesma minuta (bloqueio por conteúdo), corrige o evento de sentença por abandono e as intimações de réu não citado. Na 7ª Vara: seleção automática do assinante e resumo do processo em arquivo .md.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.34",
   "requer_licenca": false,
