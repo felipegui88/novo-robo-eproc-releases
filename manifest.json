@@ -6,13 +6,14 @@
   "mensagem_update": "Atualização obrigatória. Impede lançar duas vezes a mesma minuta (bloqueio por conteúdo), corrige o evento de sentença por abandono e as intimações de réu não citado. Na 7ª Vara: seleção automática do assinante e resumo do processo em arquivo .md.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.34",
+  "versao_minima_mac": "1.0.34",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.34",
-  "versao_atual_mac": "1.0.33",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.33/RoboEprocIA-1.0.33.dmg",
+  "versao_atual_mac": "1.0.34",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.34/RoboEprocIA-1.0.34.dmg",
   "sha256_win": "96760599233fb19f6a7ab46ef412b630014c23ae206176ea4ccf368d6bf06a27",
-  "sha256_mac": "0c35936bdb7df8854dee5720397add329b3cac740a152d0fc3ad0313d21d2758"
+  "sha256_mac": "93a4ae795e767accfb751c35e4a225b3d0d67607f9645e2a3d402af762417a70"
 }
