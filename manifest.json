@@ -6,14 +6,14 @@
   "mensagem_update": "Atualização obrigatória. O robô agora SEMPRE conclui o lançamento (falha de intimação/citação vira pendência para conferência, nunca aborto), corrige os erros de lançamento de 11/08 e destrava todas as funções em lotação com juízo único (sem seletor de vara).",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.35",
-  "versao_minima_mac": "1.0.34",
+  "versao_minima_mac": "1.0.35",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.35",
-  "versao_atual_mac": "1.0.34",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.34/RoboEprocIA-1.0.34.dmg",
+  "versao_atual_mac": "1.0.35",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.35/RoboEprocIA-1.0.35.dmg",
   "sha256_win": "9a1da4304137e0b8a1d08c7fc3ebb4824d114a422d8c5dd036420a7198016920",
-  "sha256_mac": "93a4ae795e767accfb751c35e4a225b3d0d67607f9645e2a3d402af762417a70"
+  "sha256_mac": "338ef6f884d1b9f73b0c36ecf2ffb278dd18c084cb6305e75c7748403156809b"
 }
