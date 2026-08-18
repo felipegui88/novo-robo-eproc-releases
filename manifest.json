@@ -6,14 +6,14 @@
   "mensagem_update": "1.0.39: o robô agora resolve sozinho o erro do EPROC 'o último download completo apresentou erros' (defeito do servidor do TJSP que travava os downloads de alguns usuários), além de todas as melhorias de diagnóstico da 1.0.38.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.39",
-  "versao_minima_mac": "1.0.35",
+  "versao_minima_mac": "1.0.39",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.39",
-  "versao_atual_mac": "1.0.35",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.35/RoboEprocIA-1.0.35.dmg",
+  "versao_atual_mac": "1.0.39",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.39/RoboEprocIA-1.0.39.dmg",
   "sha256_win": "b87cc495f094295d2b3959618f6e8090909a58095ad1307921b0ac8bab210dd2",
-  "sha256_mac": "338ef6f884d1b9f73b0c36ecf2ffb278dd18c084cb6305e75c7748403156809b"
+  "sha256_mac": "96c7256671a9844e8db4697726e45e8cad6ce3fd610f7f8aa75dea6460916295"
 }
