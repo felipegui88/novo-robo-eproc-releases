@@ -3,17 +3,17 @@
   "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.43/RoboEprocIA-Setup-1.0.43.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória 1.0.43: no Mac, corrige o lote de lançamento que parava no 2º processo sem erro; no Windows e no Mac, corrige o Download Completo quando o processo tem outro processo Relacionado.",
+  "mensagem_update": "Atualização obrigatória 1.0.44 (Mac): corrige o lançamento que escrevia a minuta na aba de outro processo, avisa na hora quando o modelo abre o editor sem o botão Salvar, interrompe o lote se o EPROC estiver fora do ar e conclui sozinha a instalação em Aplicativos.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.43",
-  "versao_minima_mac": "1.0.43",
+  "versao_minima_mac": "1.0.44",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.43",
-  "versao_atual_mac": "1.0.43",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.43/RoboEprocIA-1.0.43.dmg",
+  "versao_atual_mac": "1.0.44",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.44/RoboEprocIA-1.0.44.dmg",
   "sha256_win": "4061cdb64cce340aacebf9b7837506efd6f60b573c72cf5dbb8ee37fc441830a",
-  "sha256_mac": "55a8b77a855e2ef76c3608686e033b7e04dae22786001488694f1c751dd20863"
+  "sha256_mac": "324969fddf1a5ab93ada6a0b6c35ca270007c245e4bd7d831e3d1bdff4250dbb"
 }
