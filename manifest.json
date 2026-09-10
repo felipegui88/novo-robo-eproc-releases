@@ -6,14 +6,14 @@
   "mensagem_update": "Atualização obrigatória 1.0.45: o EPROC lento não derruba mais o lote (capa que chega em partes e pesquisa sem resposta viram erro só do processo), a página 502 do TJSP é reconhecida como EPROC fora do ar, o diagnóstico não trava mais o lote e a instalação automática do Mac conclui em Aplicativos.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.45",
-  "versao_minima_mac": "1.0.44",
+  "versao_minima_mac": "1.0.45",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.45",
-  "versao_atual_mac": "1.0.44",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.44/RoboEprocIA-1.0.44.dmg",
+  "versao_atual_mac": "1.0.45",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.45/RoboEprocIA-1.0.45.dmg",
   "sha256_win": "cf2adc60f93d9331f37ccd29bd3c6d5754bf58eb5b46addecaec7300ab824771",
-  "sha256_mac": "324969fddf1a5ab93ada6a0b6c35ca270007c245e4bd7d831e3d1bdff4250dbb"
+  "sha256_mac": "b4af98b2f639cad06d12bbbb53d4c5290ce5e0855a25ea1f2ea9271222b06e83"
 }
