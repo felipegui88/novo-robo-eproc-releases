@@ -3,17 +3,17 @@
   "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.46/RoboEprocIA-Setup-1.0.46.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória 1.0.46 para Windows: corrige falhas de download e seleção de localizadores, melhora os registros de resultados e recupera o envio de diagnósticos com prints após falhas de conexão. O Mac permanece na versão 1.0.45.",
+  "mensagem_update": "Atualização obrigatória 1.0.46 para Windows e macOS: corrige downloads e seleção de localizadores, melhora os registros de resultados e o envio de diagnósticos com prints. No Mac, corrige também a instalação da atualização.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.46",
-  "versao_minima_mac": "1.0.45",
+  "versao_minima_mac": "1.0.46",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.46",
-  "versao_atual_mac": "1.0.45",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.45/RoboEprocIA-1.0.45.dmg",
+  "versao_atual_mac": "1.0.46",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.46/RoboEprocIA-1.0.46.dmg",
   "sha256_win": "7b42044fc0a94b14c5181dcf2e6dabbfbf754a063f20b4e55e3312b736135d68",
-  "sha256_mac": "b4af98b2f639cad06d12bbbb53d4c5290ce5e0855a25ea1f2ea9271222b06e83"
+  "sha256_mac": "0d496224fe2c47aeac134a418ebc44c0cfc8290c0d33f9867fb341201cd3cb9a"
 }
