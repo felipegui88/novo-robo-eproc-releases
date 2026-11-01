@@ -3,17 +3,17 @@
   "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.47/RoboEprocIA-Setup-1.0.47.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória 1.0.47 para Windows: visual novo com cinco temas (esta versão abre no Claro; troque em Configurações → Aparência), Conclusos com colunas que você organiza e filtra, assinatura em lote das minutas «Para assinar», nova aba Produtividade, lançamento em lote que não para no primeiro problema e várias correções (intimação, revel, listas longas, download). Ao abrir, um roteiro mostra as novidades.",
+  "mensagem_update": "Atualização obrigatória 1.0.47 para Windows e macOS: visual novo com cinco temas (esta versão abre no Claro; troque em Configurações → Aparência), Conclusos com colunas que você organiza e filtra, assinatura em lote das minutas «Para assinar», nova aba Produtividade, lançamento em lote que não para no primeiro problema e várias correções (intimação, revel, listas longas, download). Ao abrir, um roteiro mostra as novidades.",
   "versao_minima": "1.0.33",
   "versao_minima_win": "1.0.47",
-  "versao_minima_mac": "1.0.46",
+  "versao_minima_mac": "1.0.47",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
   "versao_atual_win": "1.0.47",
-  "versao_atual_mac": "1.0.46",
-  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.46/RoboEprocIA-1.0.46.dmg",
+  "versao_atual_mac": "1.0.47",
+  "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.47/RoboEprocIA-1.0.47.dmg",
   "sha256_win": "c0efdea24c01dd2c4a485864b721d01dd47cc6d072349f012bffb2b8c95bdb15",
-  "sha256_mac": "0d496224fe2c47aeac134a418ebc44c0cfc8290c0d33f9867fb341201cd3cb9a"
+  "sha256_mac": "49dec40c278ea575b0d85929b3cc28dd6092025302c6c4096227f194cdbb047c"
 }
