@@ -1,33 +1,35 @@
 {
-  "versao_atual": "1.0.48",
-  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.48/RoboEprocIA-Setup-1.0.48.exe",
+  "versao_atual": "1.0.49",
+  "url_instalador": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.49/RoboEprocIA-Setup-1.0.49.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Atualização obrigatória 1.0.48 para Windows e macOS: a aba Produtividade mostra os atos ordinatórios à parte; lançamento nas unidades de vara única (como Conchal); correções no salvamento da minuta e no catálogo de preferências; e avisos importantes passam a aparecer dentro do programa.",
+  "mensagem_update": "Atualização obrigatória 1.0.49 para Windows: corrige o erro falso ao lançar em \"Para conferir\" (a minuta era salva, mas o programa dizia que o EPROC tinha recusado); o programa não escolhe mais sozinho um modelo de ato ordinatório; arquivo com \"decisao\" no nome não vira mais sentença; e o programa passa a avisar quando há versão nova da skill do EPROC.",
   "versao_minima": "1.0.33",
-  "versao_minima_win": "1.0.48",
+  "versao_minima_win": "1.0.49",
   "versao_minima_mac": "1.0.48",
   "requer_licenca": false,
   "update_opcional": false,
   "maquinas_autorizadas": [],
   "maquinas_bloqueadas": [],
-  "versao_atual_win": "1.0.48",
+  "versao_atual_win": "1.0.49",
   "versao_atual_mac": "1.0.48",
   "url_instalador_mac": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/v1.0.48/RoboEprocIA-1.0.48.dmg",
-  "sha256_win": "62fc7c04cf3b114cac629ff72ee8405df28499dfe7a61178f73a65950260be26",
+  "sha256_win": "f73526fe76d4e3cb0dcb42e3abf8f0f1f400bb27b1d1208925d057562a5fc6a6",
   "sha256_mac": "322e18531611cbcc44acb9e6698d6770abc431f7ded5813c4d6164bc07bf9615",
   "avisos": [
     {
-      "id": "skill-eproc-2026-11",
-      "titulo": "Skill do EPROC para a sua IA",
-      "texto": "Para quem trabalha na UPJ da 5ª à 8ª Vara Cível de Campinas. Se você usa uma IA de linha de comando (Claude Code, Codex, Gemini ou outra) para preparar minutas, instale a skill do EPROC: ela ensina a IA a gerar, junto com o Word, o arquivo .eproc.json que o Robô usa para lançar a minuta com a preferência, as intimações, o evento e o localizador certos.\n\nComo instalar: copie o pedido abaixo e cole na sua IA. Ela baixa a skill, instala e confere se está funcionando.",
-      "copiar": "Instale a skill EPROC do Robô Eproc IA.\n1. Baixe https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/skill-eproc/EPROC-json.zip (se você não puder baixar, me avise que eu baixo e digo a pasta).\n2. Extraia o conteúdo numa pasta chamada EPROC, dentro da pasta de skills da sua ferramenta (no Claude Code: ~/.claude/skills/EPROC/, com o SKILL.md direto nessa pasta). Se a sua ferramenta não tiver pasta de skills, guarde a pasta EPROC num lugar fixo e anote nas suas instruções permanentes que, quando eu pedir o .eproc.json de uma minuta, você deve ler e seguir o EPROC/SKILL.md.\n3. Leia o INSTALACAO.md, rode os testes da pasta tests (python -X utf8 -m pytest tests -q; se faltar o pytest, pode instalá-lo) e me diga se passaram.\nNão altere os arquivos do pacote.",
+      "id": "skill-eproc-v1",
+      "titulo": "Skill do EPROC para a sua IA (versão 1)",
+      "texto": "Para quem trabalha na UPJ da 5ª à 8ª Vara Cível de Campinas. Se você usa uma IA de linha de comando (Claude Code, Codex, Gemini ou outra) para preparar minutas, instale a skill do EPROC: ela ensina a IA a gerar, junto com o Word, o arquivo .eproc.json que o Robô usa para lançar a minuta com a preferência, as intimações, o evento e o localizador certos.\n\nComo instalar: copie o pedido abaixo e cole na sua IA. Ela baixa a skill, instala e confere se está funcionando.\n\nQuando sair uma versão nova da skill, o Robô avisa de novo por aqui.",
+      "copiar": "Instale a skill EPROC do Robô Eproc IA.\n1. Baixe https://github.com/felipegui88/novo-robo-eproc-releases/releases/download/skill-eproc/EPROC-json.zip (se você não puder baixar, me avise que eu baixo e digo a pasta).\n2. Extraia o conteúdo numa pasta chamada EPROC, dentro da pasta de skills da sua ferramenta (no Claude Code: ~/.claude/skills/EPROC/, com o SKILL.md direto nessa pasta). Se a pasta já existir, de uma versão anterior, troque o conteúdo dela pelo novo. Se a sua ferramenta não tiver pasta de skills, guarde a pasta EPROC num lugar fixo e anote nas suas instruções permanentes que, quando eu pedir o .eproc.json de uma minuta, você deve ler e seguir o EPROC/SKILL.md.\n3. Leia o INSTALACAO.md, rode os testes da pasta tests (python -X utf8 -m pytest tests -q; se faltar o pytest, pode instalá-lo) e me diga se passaram.\nNão altere os arquivos do pacote.",
       "rotulo_copiar": "Copiar pedido para a IA",
       "link": "https://github.com/felipegui88/novo-robo-eproc-releases/releases/tag/skill-eproc",
       "rotulo_link": "Abrir a página da skill",
       "lotacao_prefixo": [
         "CAMPINA05A08CIV/"
-      ]
+      ],
+      "versao_min": "1.0.49",
+      "repetir_ate_ignorar": true
     }
   ]
 }
